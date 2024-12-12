@@ -6,8 +6,6 @@ Bienvenue dans Mon Projet ! 🚀
 
 ❗️ Informations : Des informations sur moi et de ce que j'aime. 
 
-✉️ Envoie de mail : Possibilité d'envoyer des mails depuis le site.
-
 ## 📄 License
 Ce projet est sous la licence MIT.
 
