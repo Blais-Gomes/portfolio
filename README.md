@@ -1,6 +1,6 @@
 # 🌐 Mon Projet de Site Web
 
-## Bienvenue dans le répertoire de mon Portfolio ! 🎉 Ce projet est un site web moderne et interactif, entièrement réalisé avec HTML, CSS et JavaScript. 💻✨
+## Bienvenue dans le répertoire de mon Portfolio ! 🎉 Ce projet est un site web moderne et interactif, entièrement réalisé avec HTML, CSS et JavaScript. 💻
 
 ### 🎯 Objectifs du projet
     •    🖌️ Créer une interface utilisateur attrayante et intuitive.
