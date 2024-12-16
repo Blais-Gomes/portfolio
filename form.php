@@ -11,8 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "<h2>Merci pour votre message, $full_name !</h2>";
         echo "<p><strong>Email:</strong> $email</p>";
         echo "<p><strong>Message:</strong><br>$message</p>";
-
-        // Optionnel : envoyer un email avec les données du formulaire
+        
         $to = "blaisgomesjob@gmail.com";  
         $subject = "Nouveau message de $full_name";
         $body = "Nom: $full_name\nEmail: $email\nMessage:\n$message";
