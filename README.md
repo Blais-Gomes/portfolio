@@ -4,7 +4,7 @@
 
 ### 🎯 Objectifs du projet
     •    🖌️ Créer une interface utilisateur attrayante et intuitive.
-    •    ⚡  Offrir une expérience utilisateur fluide et réactive.
+    •    ⚡ Offrir une expérience utilisateur fluide et réactive.
     •    🌟 Explorer les concepts modernes du développement web.
 
 ### 🚀 Fonctionnalités principales
