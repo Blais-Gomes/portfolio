@@ -17,7 +17,7 @@
     •    index.css : Styles modernes et animations 🎨
     •    script.js : Fonctionnalités interactives ⚙️
     •    form.php : Sert à traiter les données envoyées par l'utilisateur, 
-         telles que la validation, ou l'envoi par email 🔧
+         telles que la validation, ou l'envoi par email (ne marche pas avec github)🔧
 
 ### 🛠️ Technologies utilisées
     •    HTML5 : Pour structurer les pages web.
